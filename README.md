@@ -1,11 +1,11 @@
-Here is the updated README with the project logo:
-
 # Decentralized Payments Gateway
 
 ![Decentralized Payments Gateway](https://github.com/Jay-shm/HACKINDIA2025-SPARK-3--BLOCK-CODERS/raw/master/Logo)
 
 ## 📜 Description
-This is a completely decentralized payments interface that allows crypto payers to pay a merchant using a wide range of blockchains, including EVM-based ones like Base, Optimism, Ethereum mainnet, etc. The app then stores the payment in a wallet and displays the total earnings to the merchant using a dashboard. The backend uses Node.js, the ethers library, and Solidity. The frontend is developed using TypeScript and includes a Wallet Connect option.
+Have you heard of RazorPay?  Yes, a multibillion-dollar startup.  We acknowledge that it only allows debit cards, credit cards, and UPI, and the main worry is that it is CENTRALIZED (Shocked sounds playing).  This is why we decided to create something to express our love of cryptocurrency.
+
+This is a truly decentralized payments interface that enables crypto payers to pay a merchant using a variety of blockchains, including EVM-based ones such as Base, Optimism, Ethereum mainnet, and others.  The program then keeps the payment in a wallet and shows the merchant the total earnings via a dashboard.  This application was created using Node.js, the Ethers library, and Solidity.  This application eliminates the hassle of verifying each transaction individually, displays a nice UI and gives retailers a more favorable attitude on cryptocurrency-based payment methods.
 
 ## 🚀 Installation
 
