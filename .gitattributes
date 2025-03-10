@@ -1,0 +1,2 @@
+large_folder/** filter=lfs diff=lfs merge=lfs -text
+myapp/** filter=lfs diff=lfs merge=lfs -text
