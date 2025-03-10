@@ -2,7 +2,7 @@ Here's an updated README with a graphic and emojis:
 
 # Decentralized Payments Gateway
 
-![Decentralized Payments Gateway](HACKINDIA2025-SPARK-3--BLOCK-CODERS/Logo.png)
+![Decentralized Payments Gateway](HACKINDIA2025-SPARK-3--BLOCK-CODERS/Logo.webp)
 
 ## 📜 Description
 This is a completely decentralized payments interface that allows crypto payers to pay a merchant using a wide range of blockchains, including EVM-based ones like Base, Optimism, Ethereum mainnet, etc. The app then stores the payment in a wallet and displays the total earnings to the merchant using a dashboard. The backend uses Node.js, the ethers library, and Solidity. The frontend is developed using TypeScript and includes a Wallet Connect option.
