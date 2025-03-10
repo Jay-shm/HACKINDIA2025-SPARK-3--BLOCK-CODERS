@@ -50,4 +50,3 @@ This project is licensed under the MIT License.
 
 ---
 
-You can further customize this README based on any additional specific instructions or sections you want to include. To edit the README, click [here](https://github.com/Jay-shm/HACKINDIA2025-SPARK-3--BLOCK-CODERS/edit/master/README.md).
