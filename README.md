@@ -5,7 +5,7 @@
 ## 📜 Description
 Have you heard of RazorPay?  Yes, a multibillion-dollar startup.  We acknowledge that it only allows debit cards, credit cards, and UPI, and the main worry is that it is CENTRALIZED (Shocked sounds playing).  This is why we decided to create something to express our love of cryptocurrency.
 
-This is a truly decentralized payments interface that enables crypto payers to pay a merchant using a variety of blockchains, including EVM-based ones such as Base, Optimism, Ethereum mainnet, and others.  The program then keeps the payment in a wallet and shows the merchant the total earnings via a dashboard.  This application was created using Node.js, the Ethers library, and Solidity.  This application eliminates the hassle of verifying each transaction individually, displays a nice UI and gives retailers a more favorable attitude on cryptocurrency-based payment methods.
+This is a truly decentralized payments interface that enables crypto payers to pay a merchant using a variety EVM-based blockchains such as Base, Optimism, Ethereum mainnet, and others.  The program then keeps the payment in a wallet and shows the merchant the total earnings via a dashboard.  This application was created using Node.js, the Ethers library, and Solidity.  This application eliminates the hassle of verifying each transaction individually, displays a nice UI and gives retailers a more favorable attitude on cryptocurrency-based payment methods.
 
 ## 🚀 Installation
 
