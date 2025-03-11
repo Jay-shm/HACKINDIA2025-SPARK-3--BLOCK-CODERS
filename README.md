@@ -19,6 +19,10 @@ This is a truly decentralized payments interface that enables crypto payers to p
    ```sh
    npm install
    ```
+3. Setup Rainbow Toolkit:
+   ```sh
+   npm install @rainbow-me/rainbowkit wagmi viem@2.x @tanstack/react-query
+   ```
 
 ## 🛠️ Running the Application
 
